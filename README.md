@@ -41,3 +41,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj1207&show_icons=true&theme=radical&count_private=true" alt="Yuvraj's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj1207&layout=compact&theme=radical" alt="Yuvraj's Top Languages" />
+</div>
