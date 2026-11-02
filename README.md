@@ -6,16 +6,14 @@
 
 <br>
 
-### 🛠 Tech Stack
+### 📊 GitHub Stats & Top Languages
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvraj1207&show_icons=true&theme=radical&count_private=true&v=1)](https://github.com/yuvraj1207)
+[![Yuvraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj1207&layout=compact&theme=radical&v=1)](https://github.com/yuvraj1207)
+
+<br>
+
+### 🛠 Frameworks & Tools
 
 #### 🌐 Web & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -41,11 +39,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj1207&show_icons=true&theme=radical&count_private=true" alt="Yuvraj's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj1207&layout=compact&theme=radical" alt="Yuvraj's Top Languages" />
-</div>
